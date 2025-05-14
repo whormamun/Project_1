@@ -1,5 +1,5 @@
 # Project_1
-Sales Data Analysis using SQL and Dashboard using Power BI.
+
 # Sales Analysis Project (SQL + Power BI)
 
 ## Overview
@@ -10,7 +10,7 @@ This project showcases a complete end-to-end **sales data analysis** using **SQL
 
 ## Tools Used
 
-* **SQL Server / MySQL** – Data cleaning, transformation, and analysis
+* **MySQL** – Data cleaning, transformation, and analysis
 * **Power BI** – Dashboard creation and interactive visualization
 * **Excel / CSV** – Raw data source
 
@@ -19,14 +19,13 @@ This project showcases a complete end-to-end **sales data analysis** using **SQL
 ## Key Features
 
 * Cleaned and structured raw sales data using SQL queries
-* Created views and joins for business-relevant metrics
 * Built a professional dashboard in Power BI showing:
 
-  * Total Revenue & Profit Trends
+  * Total Sales
   * Top Performing Products
-  * Sales by Region & Category
-  * Monthly and Yearly Comparisons
-  * Customer Segmentation
+  * Top Performing Sales Person
+  * Cumulative Sales by Time
+  * Sales by Country
 
 ---
 
@@ -36,7 +35,6 @@ This project showcases a complete end-to-end **sales data analysis** using **SQL
 /Sales-Analysis-SQL-PowerBI
 │
 ├── SQL/
-│   ├── sales_cleaning.sql
 │   └── sales_analysis_queries.sql
 │
 ├── Dashboard/
@@ -52,7 +50,7 @@ This project showcases a complete end-to-end **sales data analysis** using **SQL
 
 ## How to Use
 
-1. Import the dataset (`sales_data.csv`) into your SQL database.
+1. Import the dataset (`sales_data.csv/sales_data.xlsx`) into your SQL database.
 2. Run the SQL scripts to prepare and analyze the data.
 3. Open the `Sales_Dashboard.pbix` file in Power BI.
 4. Connect to your SQL database or import the cleaned data.
@@ -68,4 +66,4 @@ This project showcases a complete end-to-end **sales data analysis** using **SQL
 
 ## License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source and available under the whormamun.
