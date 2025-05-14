@@ -60,7 +60,7 @@ This project showcases a complete end-to-end **sales data analysis** using **SQL
 
 ## Preview
 
-[https://github.com/whormamun/Project_1/issues/1#issue-3063804038](https://github.com/whormamun/Project_1/issues/1#issue-3063804038)
+[https://github.com/whormamun/Project_1/issues/1#issue-3063804038]
 
 ---
 
